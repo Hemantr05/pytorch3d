@@ -31,7 +31,7 @@ For developing on top of PyTorch3D or contributing, you will need to run the lin
 - isort
 - flake8
 - matplotlib
-- tdqm
+- tqdm
 - jupyter
 - imageio
 
